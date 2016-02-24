@@ -19,8 +19,8 @@ All stickers are available as:
 
 ##### Contribute
 
-If you notice any mistakes in content or formatting, please [send a pull request](https://github.com/Eight-Bit/RTC-Library/compare) with your correction.  
-You can also [send an email](mailto:contribute@eight-bit.de) or [create an issue](https://github.com/Eight-Bit/RTC-Library/issues/new).
+If you notice any mistakes in content or formatting, please [send a pull request](https://github.com/Eight-Bit/Pinout_Sticker/compare) with your correction.  
+You can also [send an email](mailto:contribute@eight-bit.de) or [create an issue](https://github.com/Eight-Bit/Pinout_Sticker/issues/new).
 
 If you want additional stickers or have some tips for improvements, just [send an email](mailto:contribute@eight-bit.de).
 
